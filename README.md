@@ -12,7 +12,7 @@ The new images can be downloaded with the same method as part one. Two new py fi
 
 The first file 'split_data.py' is used to split the data into the train, validation, and test categories. This should be done after downloading the augmenting the data.
 
-The second file 'train.py' is used to train the data. The program will prompt the user for the input after being run. 
+The second file 'train.py' is used to train the data. The program will prompt the user for the input after being run. The models are saved in the training folder, as the name of the model used.
 
 ### Saturated vs Drab
 The five different base models were selected and trained using the train.py file. The batch-size used was 32, and number of epoches 20.
